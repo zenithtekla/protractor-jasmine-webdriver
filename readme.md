@@ -14,6 +14,8 @@ http://codebeautify.org/xml-to-html-converter/cbdf4dfe
 
 onPrepare() was copied from https://www.npmjs.com/package/jasmine-reporters
 
+`npm test` cli can be used
+
 ---
 
 __Tutorial__

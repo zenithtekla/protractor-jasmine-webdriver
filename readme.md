@@ -1,6 +1,21 @@
 Source: [LINK](http://www.protractortest.org/#/tutorial)
 
 
+using Protractor with webdriver-manager, we can run Protractor tests on a 
+
+---
+update 01/23/17
+
+Selenium-webdriver against a website. Test script is written using Jasmine framework and test results are exported into testresults folder under XML format, codebeautify.org can convert that XML format to HTML file. Neat stuff.
+
+Output can be viewed at:
+
+http://codebeautify.org/xml-to-html-converter/cbdf4dfe
+
+onPrepare() was copied from https://www.npmjs.com/package/jasmine-reporters
+
+---
+
 __Tutorial__
 
 This is a simple tutorial that shows you how to set up Protractor and start running tests.

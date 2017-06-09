@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
- <testsuite name="Protractor Demo App" timestamp="2017-01-23T16:35:08" hostname="localhost" time="1.073" errors="0" tests="1" skipped="0" disabled="0" failures="0">
-  <testcase classname="Protractor Demo App" name="should have a title" time="1.073" />
+ <testsuite name="Protractor Demo App" timestamp="2017-01-23T16:36:15" hostname="localhost" time="0.991" errors="0" tests="1" skipped="0" disabled="0" failures="0">
+  <testcase classname="Protractor Demo App" name="should have a title" time="0.989" />
  </testsuite>
- <testsuite name="Protractor Demo App" timestamp="2017-01-23T16:35:09" hostname="localhost" time="2.433" errors="0" tests="1" skipped="0" disabled="0" failures="1">
-  <testcase classname="Protractor Demo App" name="should add one and two" time="2.432">
+ <testsuite name="Protractor Demo App" timestamp="2017-01-23T16:36:16" hostname="localhost" time="2.409" errors="0" tests="1" skipped="0" disabled="0" failures="1">
+  <testcase classname="Protractor Demo App" name="should add one and two" time="2.409">
    <failure type="toEqual" message="Expected &apos;3&apos; to equal &apos;5&apos;."><![CDATA[Error: Failed expectation
     at Object.<anonymous> (/Users/pristinetran/Dev/webdriver/p0/spec-s1.js:10:9)
     at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:102:25
@@ -18,10 +18,10 @@
    </failure>
   </testcase>
  </testsuite>
- <testsuite name="Protractor Demo App" timestamp="2017-01-23T16:35:11" hostname="localhost" time="2.813" errors="0" tests="3" skipped="0" disabled="0" failures="1">
-  <testcase classname="Protractor Demo App" name="should have a title" time="0.255" />
-  <testcase classname="Protractor Demo App" name="should add one and two" time="2.288" />
-  <testcase classname="Protractor Demo App" name="should add four and six" time="0.269">
+ <testsuite name="Protractor Demo App" timestamp="2017-01-23T16:36:18" hostname="localhost" time="2.845" errors="0" tests="3" skipped="0" disabled="0" failures="1">
+  <testcase classname="Protractor Demo App" name="should have a title" time="0.259" />
+  <testcase classname="Protractor Demo App" name="should add one and two" time="2.31" />
+  <testcase classname="Protractor Demo App" name="should add four and six" time="0.275">
    <failure type="toEqual" message="Expected &apos;0&apos; to equal &apos;10&apos;."><![CDATA[Error: Failed expectation
     at Object.<anonymous> (/Users/pristinetran/Dev/webdriver/p0/spec-s2.js:27:36)
     at /usr/local/lib/node_modules/protractor/node_modules/jasminewd2/index.js:102:25
